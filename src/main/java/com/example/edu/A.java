@@ -4,12 +4,11 @@ public class A {
    public void methodOne() {
 	   
    }
-
  public void methodThree() {
- }
-   
-public void methodTwo() {
-
-	   
+	   //comment
    }
+ 
+ public void method5() {
+	 
+ }
 }
