@@ -16,6 +16,7 @@ public class A {
 
 public void methodFour() {
 	   //comment dev2
+	//
 }
 
 }
