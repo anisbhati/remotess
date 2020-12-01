@@ -8,4 +8,8 @@ public class A {
 public void methodTwo() {
 	   
    }
+
+public void methodFour() {
+	   
+}
 }
