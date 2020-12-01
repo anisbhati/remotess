@@ -7,8 +7,15 @@ public class A {
  public void methodThree() {
 	   //comment
    }
+
  
  public void method5() {
 	 
  }
+
+
+public void methodFour() {
+	   
+}
+
 }
